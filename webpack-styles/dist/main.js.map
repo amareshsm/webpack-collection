@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack-styles/./src/index.js"],"names":["document","querySelector","innerText"],"mappings":"yBAGAA,SAASC,cAAc,MAAMC,UADZ,yB","file":"main.js","sourcesContent":["import \"./style.scss\";\nimport \"./regular.css\"\nconst headline = \"Welcome to the webpage\";\ndocument.querySelector('h1').innerText=headline;\n"],"sourceRoot":""}

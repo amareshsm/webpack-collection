@@ -1,0 +1,4 @@
+:root{--mainBg: lightyellow}body{background-color:#ffffe0;background-color:var(--mainBg);color:#000;font-weight:bolder}.container{display:-webkit-box;display:-ms-flexbox;display:flex;padding:1rem;margin:10px}.container h1{font-size:50px;text-align:center}
+h1{font-size:90px !important}
+
+/*# sourceMappingURL=main.css.map*/

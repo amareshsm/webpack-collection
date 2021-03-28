@@ -1,0 +1,20 @@
+:root{
+    --mainBg: lightyellow;
+}
+$text : bolder;
+body{
+    background-color: var(--mainBg);
+    color: black;
+    font-weight: $text;
+
+}
+.container{
+  display:flex;
+  padding: 1rem;
+  margin: 10px;
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+}
