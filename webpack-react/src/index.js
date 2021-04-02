@@ -1,3 +1,4 @@
+import "./styles/style.css"
 const sampleObject = {
     data:['hi','hello'],
     optional:false
