@@ -13,7 +13,7 @@ module.exports = {
   },
   devtool:false,
   resolve: {
-    extensions: [".ts", ".tsx", ".js"],
+    extensions: [".ts", ".js"],
   },
   //Webpack does not look for .ts files by default. You can configure resolve.extensions to look for .ts.
 };
