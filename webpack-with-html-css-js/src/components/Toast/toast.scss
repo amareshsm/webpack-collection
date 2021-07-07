@@ -1,0 +1,16 @@
+$font-size: 16px;
+$color:#289628;
+$radius: 4px;
+
+.toast{
+    height: 60px;
+    margin: 10px 0px;
+    box-shadow:0px 0px 10px 2px #ccc;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: $radius;
+    font-size: $font-size;
+    border-top: 4.5px solid $color;
+}
