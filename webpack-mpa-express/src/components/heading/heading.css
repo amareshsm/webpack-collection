@@ -1,0 +1,9 @@
+.heading{
+    color: red;
+    font-style: italic;
+}
+.heading:hover{
+    color: black;
+    transition: 0.8s;
+    cursor: pointer;
+}
